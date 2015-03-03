@@ -55,14 +55,14 @@ CRM4Office is an OpenOffice Extension for SugarCRM. It is a complete integration
 
 ## How do I enter the license key?
 
->  Download the crm4office-xxx-N.N.N.oxt file from one of the following sites: SugarExchange or OpenAtrix Download Site
->  Start OpenOffice
->  Click on Tools->Extension Manager
->  Click on Add and select the .oxt file that you downloaded in step 1.
->  After the installation, select CRM4Office and Click on "Options". This should open up another window where you should be able to see CRM4Office -> License Settings
->  Select License Settings
->  Enter Name [Trial License or Name provided by OpenAtrix]
->  Enter License Key
->  Click on "Update Key" button
->  Click on "OK" button so that the license is saved to disk
+> 1. Download the crm4office-xxx-N.N.N.oxt file from one of the following sites: SugarExchange or OpenAtrix Download Site
+> 1. Start OpenOffice
+> 1. Click on Tools->Extension Manager
+> 1. Click on Add and select the .oxt file that you downloaded in step 1.
+> 1. After the installation, select CRM4Office and Click on "Options". This should open up another window where you should be able to see CRM4Office -> License Settings
+> 1. Select License Settings
+> 1. Enter Name [Trial License or Name provided by OpenAtrix]
+> 1. Enter License Key
+> 1. Click on "Update Key" button
+> 1. Click on "OK" button so that the license is saved to disk
   
